@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
 <svg width="1440" height="1084" viewBox="0 0 1440 1084" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="1440" height="1084" fill="white"/>
 <rect width="1440" height="83" fill="#D9D9D9"/>
@@ -92,3 +101,6 @@
 </filter>
 </defs>
 </svg>
+
+</body>
+</html>

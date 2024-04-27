@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
 <svg width="1440" height="1483" viewBox="0 0 1440 1483" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_3_2579)">
 <rect width="1440" height="1483" fill="white"/>
@@ -88,3 +97,6 @@
 </clipPath>
 </defs>
 </svg>
+
+</body>
+</html>
